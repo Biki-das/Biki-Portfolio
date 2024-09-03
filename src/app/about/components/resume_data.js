@@ -15,7 +15,7 @@ export const data = {
     },
     {
       company: "SuperShare",
-      role: "React Native Developer",
+      role: "Junior Front Engineer",
       location: "Bengaluru, India",
       date: "2022 - 2023",
       description: [
